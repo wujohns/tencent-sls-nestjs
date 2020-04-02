@@ -1,0 +1,19 @@
+{
+  "name": "tencent-sls-nestjs",
+  "version": "0.0.1",
+  "description": "腾讯云nestjs的serverless component",
+  "author": "wujohns",
+  "license": "MIT",
+  "dependencies": {
+    "@serverless/core": "^1.1.2",
+    "@serverless/tencent-framework": "0.0.6",
+    "@ygkit/bundler": "0.0.4",
+    "tencent-serverless-http": "^1.0.7",
+    "type": "^2.0.0"
+  },
+  "main": "./serverless.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujohns/tencent-sls-nestjs.git"
+  }
+}
